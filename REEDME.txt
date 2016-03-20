@@ -1,0 +1,5 @@
+PLEASE run the bat file as ADMINISTRATOR! it won't work otherwise
+
+It may have some warnings with the antivirus. Don't worry, I can't give you anything more than my word but its up to you. If you don't trust just read the .bat and copy it's code. Is simple.
+
+This program is not recomended to be used all the time. Just when the normal methods doesn't work.
